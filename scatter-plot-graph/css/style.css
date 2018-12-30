@@ -1,0 +1,14 @@
+#title{
+  text-align: center;
+  font-size: 2em;
+  color: orange;
+}
+.tooltip {	
+    position: absolute;			
+    padding: 15px;				
+    font: italic bold 12px Georgia, serif;
+    background: grey;	
+    	
+    border-radius: 5px;			
+    pointer-events: none;			
+}
